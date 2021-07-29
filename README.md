@@ -4,4 +4,4 @@ Sudoku Game implementation in Java. A user interactive Sudoku game. Uses Backtra
 ![image](https://user-images.githubusercontent.com/88033871/127476285-a3b4aa8f-1498-4537-8339-6f0003113719.png)
 
 
-Ref: https://github.com/MayV/SudokuGame
+Reference: https://github.com/MayV/SudokuGame
